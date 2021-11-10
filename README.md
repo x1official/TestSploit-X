@@ -1,2 +1,13 @@
-# TestSploit-X
- roblox executor with ace editor. WRD API
+
+# TestSploit X
+
+ roblox executor with ace editor. using WRD API
+
+
+## Badges
+
+My No linkvertise and No Key Roblox Executor [Redux](https://www.reduxwinning.xyz/)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+  
