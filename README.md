@@ -4,7 +4,7 @@
  roblox executor with ace editor. using WRD API
 
 
-## Badges
+## skid = bad >:(
 
 My No linkvertise and No Key Roblox Executor [Redux](https://www.reduxwinning.xyz/)
 
